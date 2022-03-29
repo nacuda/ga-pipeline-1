@@ -1,3 +1,7 @@
+#Slurm
+*.err
+*.out
+
 #Large Data files
 *.fastq.gz
 
